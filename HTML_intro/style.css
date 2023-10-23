@@ -1,0 +1,59 @@
+
+Body {
+
+   background:  #85c18580;
+
+}
+
+
+
+
+
+h1 {
+
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 3em;
+text-align: center;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 110vh; /* Setter høyde til 100% av visningsvinduet for å sentrere vertikalt */
+  }
+  
+  img {
+    max-width: 100%; /* Sikrer at bildet ikke overskrider foreldreelementets bredde */
+    max-height: 100%; /* Sikrer at bildet ikke overskrider foreldreelementets høyde */
+  }
+
+  .style-btn {
+
+    background-color: #bee1c4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+
+  }
+  
+  .style-btn:hover {
+    background-color: #6a906b;
+  }
+
+  .style-btn {
+
+    position: relative;
+    top: -40px; 
+    left: 700px;
+
+  }
+  
