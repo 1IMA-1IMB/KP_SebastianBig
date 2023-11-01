@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+}
+.main-container {
+    display: flex;
+    height: 250vb;
+    width: 100%;
+    background-image: url('https://assets.editorial.aetnd.com/uploads/2009/11/halloween-gettyimages-1424736925.jpg');
+    background-attachment: fixed;
+    background-size: 90%;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.header {
+    font-size: 5em;
+    height: 20%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black 2px;
+}
+
+.middle {
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    margin: 10px;
+    background: scroll #6A644E;
+}
+
+.footer {
+    border: solid black 2px; 
+    height: 20%;   
+}
+
+.imag {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* Ensure the container has a fixed width or a maximum width */
+    max-width: 100%;
+    max-height: 33%;
+    overflow: hidden; /* Optional: hide the overflow if images are too large */
+}
+
+.imag img {
+    /* Use object-fit to control how images fit within their containers */
+    object-fit: cover; /* or other suitable value */
+    max-width: 33%;
+    max-height: 100%; /* Optional: ensure images don't exceed the container width */
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+}
+
+.imag2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* Ensure the container has a fixed width or a maximum width */
+    max-width: 100%;
+    max-height: 33%;
+    overflow: hidden; /* Optional: hide the overflow if images are too large */
+}
+
+.imag2 img {
+    /* Use object-fit to control how images fit within their containers */
+    object-fit: cover; /* or other suitable value */
+    max-width: 33%;
+    max-height: 100%; /* Optional: ensure images don't exceed the container width */
+}
+
+.text2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+}
+
+.imag3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* Ensure the container has a fixed width or a maximum width */
+    max-width: 100%;
+    max-height: 33%;
+    overflow: hidden; /* Optional: hide the overflow if images are too large */
+}
+
+.imag3 img {
+    /* Use object-fit to control how images fit within their containers */
+    object-fit: cover; /* or other suitable value */
+    max-width: 33%;
+    max-height: 100%; /* Optional: ensure images don't exceed the container width */
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .imag {
+        display: flex;
+        flex-direction: column;
+        max-width: 100%;
+        max-height: 100%;
+        overflow: hidden;
+    }
+    
+    .imag img {
+        object-fit: cover;
+        max-width: 100%;
+        max-height: 33%;
+    }
+
+    .imag2,
+    .imag3 {
+        display: flex;
+        flex-direction: row;
+        max-width: 100%;
+        max-height: 100%;
+        overflow: hidden;
+    }
+    
+    .imag2 img,
+    .imag3 img {
+        object-fit: fill;
+        max-width: 100%;
+        max-height: 33%;
+    }
+}
