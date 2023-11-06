@@ -3,9 +3,9 @@ body {
 }
 .main-container {
     display: flex;
-    height: 250vb;
+    height: 300vb;
     width: 100%;
-    background-image: url('https://assets.editorial.aetnd.com/uploads/2009/11/halloween-gettyimages-1424736925.jpg');
+    background-color: #393442;
     background-attachment: fixed;
     background-size: 90%;
     justify-content: center;
@@ -13,8 +13,8 @@ body {
 }
 
 .header {
-    font-size: 5em;
-    height: 20%;
+    font-size: 3em;
+    height: 10%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: aliceblue;
     display: flex;
@@ -26,14 +26,14 @@ body {
 .middle {
     display: flex;
     flex-direction: column;
-    height: 50%;
-    margin: 10px;
-    background: scroll #6A644E;
+    height: 80%;
+    margin: 0px;
+    background: scroll #30292F;
 }
 
 .footer {
     border: solid black 2px; 
-    height: 20%;   
+    height: 10%;   
 }
 
 .imag {
@@ -57,6 +57,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     font-size: 2em;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: aliceblue;
@@ -82,6 +83,7 @@ body {
 
 .text2 {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     font-size: 2em;
@@ -139,4 +141,15 @@ body {
         max-width: 100%;
         max-height: 33%;
     }
+}
+
+.imag_text {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+    
 }
