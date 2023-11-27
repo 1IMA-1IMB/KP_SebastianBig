@@ -1,12 +1,12 @@
 .container {
-height: 300vb;
+height: 800vb;
 flex-direction: column;
 }
 
 
 .header {
 display: flex;
-height: 20%;
+height: 10%;
 justify-content: center;
 align-items: center;
 }
@@ -21,13 +21,13 @@ align-items: center;
 
 .footer {
 display: flex;
-height: 10%;
+height: 20%;
 justify-content: center;
 align-items: center;
 }
 
 
 img {
-    height: 40%;
-    width: 40%;
+    height: 10%;
+    width: 30%;
 }
