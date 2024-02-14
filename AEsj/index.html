@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volume Converter</title>
+    <link rel="js" href="index.js">
+</head>
+<body>
+    <h1>VuLom convertor</h1>
+    
+    <label for="inputVolume">Vulom:</label>
+    <input type="number" id="inputVolume">
+    
+    <label for="selectUnit">Velg:</label>
+    <select id="selectUnit">
+        <option value="liters">Liters</option>
+        <option value="gallons">Gallons</option>
+        <option value="cubic-meters">Cubic Meters</option>
+        <option value="cubic-feet">Cubic Feet</option>
+    </select>
+    
+    <button onclick="convertVolume()">Converter</button>
+    
+    <h2>Convertert vulom:</h2>
+    <p id="convertedVolume"></p>
+    
+    <script src="index.js"></script>
+</body>
+</html>

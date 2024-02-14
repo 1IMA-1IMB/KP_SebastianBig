@@ -1,8 +1,8 @@
 .container {
     display: flex;
     flex-direction: column;
-    height: 300vb;
-    background-color: bisque;
+    height: 150vb;
+    background-color: rgb(226, 240, 255);
     
 }
 
@@ -21,7 +21,7 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 10em;
     overflow: hidden;
-    background-color: #f1f1f1;
+    background-color: #ffffff;
     padding: 20px 10px;
 }
 
@@ -75,5 +75,5 @@
       height: 100%;
       margin: 1.25rem auto;
       padding: 1.051%;
-      background-color: #a5a5a5;
+      background-color: #e8f7ff;
     }

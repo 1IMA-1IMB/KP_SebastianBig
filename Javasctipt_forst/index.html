@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="js" href="JS/index.js">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+    <div class="container">
+        <h2>Tempratur</h2>
+        <p>Fra celcius til Farhenheit<p>
+
+        <p>
+            <label>Celsius</label>
+            <input id="inputCelsius" type="number" placeholder="Celsius" oninput="temperatureConverter(this.value)" onchange="temperatureConverter(this.value)">
+        </p>
+        <div class="outputF">
+            <p>Fahrenheit: <span id="outputFahrenheit"></span></p>
+        </div>
+
+        <a href="index2.html"> <button class="button-48" role="button"><span class="text">Bytt</span></button> </a>
+
+        <fieldset>
+            <legend>what does the thing do?</legend>
+          
+            <div>
+              <input type="checkbox" id="scales" name="scales" checked />
+              <label for="scales">Does it walk like a duck?</label>
+            </div>
+          
+            <div>
+              <input type="checkbox" id="horns" name="horns" />
+              <label for="horns">Does it quack like a duck?</label>
+            </div>
+          </fieldset>
+          
+
+    </div>
+
+    <script src="JS/index.js"></script>
+</body>
+</html>

@@ -1,8 +1,8 @@
 .container {
     display: flex;
     flex-direction: column;
-    height: 300vb;
-    background-color: bisque;
+    height: 150vb;
+    background-color: rgb(230, 245, 255);
     
 }
 
@@ -73,5 +73,5 @@ video {
   height: 100%;
   margin: 1.25rem auto;
   padding: 1.051%;
-  background-color: #a5a5a5;
+  background-color: #eeefff;
 }
