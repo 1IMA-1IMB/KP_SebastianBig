@@ -5,38 +5,40 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <div class="konvertor">
-        <h1>flote konvertor</h1>
+    <div class="container">
+        <div class="konvertor">
+            <h1>flote konvertor</h1>
 
-        <label for="inputVolume">Enter Flote:</label>
-        <input type="number" id="inputVolume">
+            <label for="inputVolume">Enter Flote:</label>
+            <input type="number" id="inputVolume">
 
-        <label for="selectFromUnit">Fra:</label>
-        <select id="selectFromUnit">
-            <option value="ml">Milliliter (ml)</option>
-            <option value="l">Liter (l)</option>
-            <option value="oz">Fluid Ounce (oz)</option>
-            <option value="cup">Cup (cup)</option>
-            <option value="gal">Gallon (gal)</option>
-        </select>
+            <label for="selectFromUnit">Fra:</label>
+            <select id="selectFromUnit">
+                <option value="ml">Milliliter (ml)</option>
+                <option value="l">Liter (l)</option>
+                <option value="oz">Fluid Ounce (oz)</option>
+                <option value="cup">Cup (cup)</option>
+                <option value="gal">Gallon (gal)</option>
+            </select>
 
-        <label for="selectToUnit">Til:</label>
-        <select id="selectToUnit">
-            <option value="ml">Milliliter (ml)</option>
-            <option value="l">Liter (l)</option>
-            <option value="oz">Fluid Ounce (oz)</option>
-            <option value="cup">Cup (cup)</option>
-            <option value="gal">Gallon (gal)</option>
-        </select>
+            <label for="selectToUnit">Til:</label>
+            <select id="selectToUnit">
+                <option value="ml">Milliliter (ml)</option>
+                <option value="l">Liter (l)</option>
+                <option value="oz">Fluid Ounce (oz)</option>
+                <option value="cup">Cup (cup)</option>
+                <option value="gal">Gallon (gal)</option>
+            </select>
 
-        <button onclick="convertVolume()">konverter</button>
-    </div>
+            <button onclick="convertVolume()">konverter</button>
+            </div>
 
-    <div class="palindrome">
-        <label for="inputText">Enter Drom:</label>
-        <input type="text" id="inputText">
+        <div class="palindrome">
+            <label for="inputText">Enter Drom:</label>
+            <input type="text" id="inputText">
 
-        <button onclick="checkPalindrome()">Check Palindrome</button>
+            <button onclick="checkPalindrome()">Check Palindrome</button>
+        </div>  
     </div>
 
     <p id="result"></p>
