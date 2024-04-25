@@ -1,0 +1,215 @@
+:: StoryTitle
+bolle
+
+
+:: StoryData
+{
+  "ifid": "D002AF8E-6162-432F-AECB-D3DC46DE6302",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Start twine ark",
+  "zoom": 0.6
+}
+
+
+:: Explore {"position":"900,1250","size":"100,100"}
+you find a broken window in the process of exploring and decide to try to get out of the house that way.
+
+[[Next->next8]]
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/d8a8a682-dbd0-4b2c-8f4b-b7c0b09c2899.jpg" alt="exploer">
+
+
+:: Hide {"position":"1050,1250","size":"100,100"}
+you go hide under a desk and wait...
+you see that the kidnapper is your girlfriend and that she is secrectly a mass murderer.
+
+[[Next->next9]]
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/35b33357-0db5-440f-8024-828056e60735.jpg" alt="Image hide">
+
+
+:: Start twine ark {"position":"1050,250","size":"100,100"}
+your name is gary and you work a 9-5 at a parking garage meking sure that no one sneaks in or dosnt have a ticket.
+
+
+[[next]]
+
+
+:: dont eat (starve) {"position":"1275,875","size":"100,100"}
+you decide not to eat on your 13 hour shift and end up passing out on the floor of the parking garage and dying right there.
+
+
+<img src="YOUR_IMAGE_URL" alt="Image Description">
+
+
+:: go get bolle {"position":"975,1500","size":"100,100"}
+you get the bolle and eat the hell out of it, inside the bolle you find a razor blade.
+
+
+[[use it to see if there is bugs under your skin]] or [[use to scrach kidnapper's trought]]
+
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/5dd31a00-0d9a-448f-bf26-475762f48bd7.jpg" alt="Image dsaaaa">
+
+
+:: go home sick {"position":"900,750","size":"100,100"}
+you go home and go back to sleep.
+
+
+
+[[next->next3]]
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/85414c31-092d-4538-afb9-b087dafbbe87.jpg" alt="home sick">
+
+
+:: next {"position":"1050,375","size":"100,100"}
+you wake up and get ready for work but need to decide weather to take your car or the bus.
+
+[[take your car]] or [[take the bus]]
+
+
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/320cd4a4-c08c-4bfd-bb5e-db135e10387f.jpg" alt="man">
+
+
+
+:: next2 {"position":"975,625","size":"100,100"}
+you feel kind of sick when you get out of your car and wonder if you should ask your coworker if he could take over the shift.
+
+[[go home sick]] or [[stay at work]]
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/4531590b-9d32-49da-bf94-33bb11f467cb.jpg" alt="sick">
+
+
+:: next3 {"position":"800,900","size":"100,100"}
+congratulations!
+you survived!
+
+
+
+
+go back[[next2]]
+
+or
+
+try again[[Start twine ark]]
+
+<img src="YOUR_IMAGE_URL" alt="Image Description">
+
+
+:: next5 {"position":"1200,750","size":"100,100"}
+you are getting hungry and start to wonder if you sould take lunch today.
+
+
+
+[[use all of your remaining money and eat]] or [[dont eat (starve)]]
+
+
+
+<img src="YOUR_IMAGE_URL" alt="Image Description">
+
+
+:: next6 {"position":"1050,1000","size":"100,100"}
+you eat the bolle and its the best bolle you have ever tasted and you can not get enough of it, until you tase a wierd little flavor. right after that, you pass out.
+
+[[Next->next7]]
+
+
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/e183dbc6-17f0-49de-a5cf-8adc5b3c9aab.jpg" alt="bestbolle">
+
+
+:: next7 {"position":"975,1125","size":"100,100"}
+you wake up in a basement filled with wierd kink toys and other sharp objects. you panic for a few seconds but you relise if you dont do anything you will be tortured so you decide to either explore and possibly find a way out or if you should try to hide and surprise the kidnapper.
+
+
+[[Explore]] or [[Hide]]
+
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/_6d5ad3b2-9060-4575-979a-b3f0fdf2390d.jpg" alt="wake up basement">
+
+
+:: next8 {"position":"825,1375","size":"100,100"}
+you get out!
+congradulations you escaped.
+
+
+
+<img src="YOUR_IMAGE_URL" alt="Image Description">
+
+
+:: next9 {"position":"1050,1375","size":"100,100"}
+you find a bolle in the corner of the room and you really want the bolle but it is really risky.
+
+[[go get bolle]] or [[stay hidden and wait to attack the kidnapper]]
+
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/1a37723a-33cc-48a0-abc9-1c06b413e82f.jpg" alt="Imagedonut Description">
+
+
+:: stay at work {"position":"1050,750","size":"100,100"}
+you stay at work
+
+[[Next->next5]]
+
+
+<img src="YOUR_IMAGE_URL" alt="Image Description">
+
+
+:: stay hidden and wait to attack the kidnapper {"position":"1125,1500","size":"100,100"}
+the kidnapper finds you and stabs you with a dildo trough your trought and you bleed out.
+
+
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/grapgic.jpg" alt="Image Descripsasation">
+
+
+:: take the bus {"position":"1125,500","size":"100,100"}
+you take the bus and the bus ticket costs you $2.
+
+[[next->next5]]
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/taking-the-bus.jpg" alt="buss">
+
+
+:: take your car {"position":"975,500","size":"100,100"}
+you drive to work and have to pay $20 to park in your work garage.
+
+
+
+[[next->next2]]
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/taking-the-car.jpg" alt="car">
+
+
+:: use all of your remaining money and eat {"position":"1125,875","size":"100,100"}
+you decide to go eat with your remaining money and see an advertisment for a bolle.
+so you go ahead and buy a bolle.
+
+[[Next->next6]]
+
+
+<img src="https://raw.githubusercontent.com/1IMA-1IMB/kpsebastianb.github.io/main/Twine%20Bilder/f21d0196-7108-4ca6-820f-ecd2f7c43fa2.jpg" alt="adbolle">
+
+
+:: use it to see if there is bugs under your skin {"position":"950,1625","size":"100,100"}
+GAME OVER
+
+you killed yourself.
+
+
+
+<img src="YOUR_IMAGE_URL" alt="Image Description">
+
+
+:: use to scrach kidnapper's trought {"position":"1100,1625","size":"100,100"}
+you eliminate the kidnapper and are free.
+
+
+<img src="YOUR_IMAGE_URL" alt="Image Description">
+
+
+:: StoryStylesheet [stylesheet]
+.next {
+}
